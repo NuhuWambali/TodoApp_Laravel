@@ -1,0 +1,38 @@
+
+.head{
+    font-size: 1.8em;
+
+}
+.wrapper{
+    margin:1.2em 1.4em;
+}
+.task{
+    background-color: rgb(8,44, 50);
+    padding:1.2em ;
+    border-radius: 2rem 2rem;
+    color:#fff;
+    margin-top:1.5rem;
+
+}
+.btn{
+    margin:1.2em 1.2em;
+}
+.header2 h4{
+    font-style: italic;
+    text-align:center
+
+}
+.formStyle{
+    background-color: rgb(8,44, 50);
+    padding:0 4em 1em 4em;
+    border-radius: 5px 5px 5px 5px;
+
+}
+.form-label{
+    color:#fff;
+}
+.noTask{
+    text-align: center;
+    margin:2rem 2rem;
+
+}
